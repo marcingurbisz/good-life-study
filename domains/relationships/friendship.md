@@ -31,9 +31,3 @@ Friendship is sustained by follow-through: checking in, remembering details, bei
 - notice when comparison or hidden competition enters a relationship
 - practice saying no clearly when needed, without aggression or apology spirals
 - in moments of self-attack, speak to yourself as you would to a friend
-
-## Open questions
-
-- How should friendship relate to justice, loyalty, and truthfulness when they conflict?
-- How much friendship can be generalized beyond close ties into a wider orientation toward strangers and colleagues?
-- What are the limits of friendship as a moral stance when a relationship is genuinely harmful?
