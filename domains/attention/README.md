@@ -8,3 +8,7 @@ Questions for this domain:
 - What fragments it?
 - Which technologies improve thinking and which degrade it?
 - How do habits, environment, and relationships influence attention?
+
+## Current notes
+
+- [`digital-exhaustion.md`](digital-exhaustion.md) - fragmentation, ambiguous digital signals, interaction rhythms, and recovery

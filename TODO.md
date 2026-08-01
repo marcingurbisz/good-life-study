@@ -27,7 +27,12 @@
 > Validation: Compared the extracted principles with the local Stoicism diagram and prose; verified the classical framing against Epictetus's *Enchiridion*, the Stanford Encyclopedia of Philosophy, and the Internet Encyclopedia of Philosophy entries on Stoicism, Stoic ethics, and Epictetus; checked all local links and ran `git diff --check`.
 > Learning: Preserve the nuances usually lost in short Stoic summaries: preferred externals can matter without defining flourishing, responsibility for judgment is not control over outcomes, working with impressions is not denial of pain, and Stoic flourishing includes justice and social duties rather than private calm alone.
 
-## [NEW] Incorporate [`digital exhaustion`](../publishing/published/posts/2026-04-22-digital-exhaustion.md) into good-life-study.
+## [DONE 2026-08-01.1] Incorporate [`digital exhaustion`](../publishing/published/posts/2026-04-22-digital-exhaustion.md) into good-life-study.
+
+> Agent: Incorporated the published post as both a traceable source and domain-level synthesis rather than copying it into the repository unchanged.
+> Changes: Added the flat source note `sources/post-digital-exhaustion.md` with provenance, core ideas, proposed practices, and a clear boundary that the material derives from a short post and Blinkist summary rather than the full book. Added `domains/attention/digital-exhaustion.md` covering signals, six working principles, and concrete experiments for device use, communication rhythms, recovery, and information-environment design. Updated the attention index and replaced the technology/AI placeholder with a domain README that links to the attention-owned note without duplicating it.
+> Validation: Re-read every idea against the published LinkedIn post, confirmed the source and domain notes distinguish observation from interpretation and digital exhaustion from other possible causes of fatigue, verified all local file links and the flat source naming convention, and ran `git diff --check`.
+> Learning: Treat digital exhaustion primarily as a pattern of fragmented interaction, ambiguous signal interpretation, and emotional activation—not as a synonym for screen time. Protecting attention requires changing rhythms and defaults as well as individual intention.
 
 ## [DONE] 2026-04-25
 
