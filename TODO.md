@@ -16,9 +16,3 @@
 > Validation: `git diff --check`; confirmed exactly four files directly under `domains/`; searched current README, domain, and source notes for references to the removed nested paths.
 > Learning: Create a domain when useful content exists. Keep it as one file until its size or internal structure makes a directory meaningfully easier to navigate.
 
-# [DONE 2026-08-01.3] Remove `technology-and-ai.md`
-The file does not contribute anything to the current synthesis.
-
-> Changes: Removed the domain file. Technology and AI remain themes in the working map, but they will get a dedicated domain again only when there are principles or practices that do not belong naturally in an existing domain.
-> Validation: Confirmed that no README, domain, or source note references `domains/technology-and-ai.md` and that the remaining domain files contain substantive synthesis.
-> Learning: A list of questions and a link to another domain are not enough to justify a separate domain file.
