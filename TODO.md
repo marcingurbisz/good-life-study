@@ -20,7 +20,12 @@
 > Validation: Re-read all inline feedback against the resulting README and tree, confirmed every source is directly under `sources/` with a type prefix, confirmed no tracked files remain under `synthesis/`, `principles/`, or `practices/`, and ran `git diff --check`.
 > Learning: Prefer domain-owned principles and practices. Use `domains/general/` only for ideas that truly cross several domains, not as a default destination.
 
-## [NEW] Review `stoicism-personal-study` and stoicism itself and extract the ideas that should become reusable principles here.
+## [DONE 2026-08-01.1] Review `stoicism-personal-study` and stoicism itself and extract the ideas that should become reusable principles here.
+
+> Agent: Reviewed both language versions of `stoicism-personal-study`, then checked its core claims against Epictetus and academic reference works on Stoicism and Stoic ethics.
+> Changes: Expanded `sources/philosophy-stoicism.md` with source links, distinctions between virtue and preferred externals, a careful reading of what is “up to us,” impressions and judgments, the four practical capacities, social responsibility, acceptance, and explicit misuse boundaries. Added `domains/general/principles.md` with six reusable principles: anchor well-being in choices rather than guaranteed outcomes; focus effort where agency exists; treat first impressions as hypotheses; train wisdom, courage, justice, and moderation; hold acceptance together with action; and include other people in flourishing.
+> Validation: Compared the extracted principles with the local Stoicism diagram and prose; verified the classical framing against Epictetus's *Enchiridion*, the Stanford Encyclopedia of Philosophy, and the Internet Encyclopedia of Philosophy entries on Stoicism, Stoic ethics, and Epictetus; checked all local links and ran `git diff --check`.
+> Learning: Preserve the nuances usually lost in short Stoic summaries: preferred externals can matter without defining flourishing, responsibility for judgment is not control over outcomes, working with impressions is not denial of pain, and Stoic flourishing includes justice and social duties rather than private calm alone.
 
 ## [NEW] Incorporate [`digital exhaustion`](../publishing/published/posts/2026-04-22-digital-exhaustion.md) into good-life-study.
 
