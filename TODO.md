@@ -1,6 +1,8 @@
 # TODO
 
 ## [FOR HUMAN]
+* review current shape
+* 
 
 ## [DONE 2026-08-01.1] Feedback
 * see my feedback as inline comments in README.md
@@ -17,55 +19,16 @@
     > Agent: Moved and reframed it as `sources/philosophy-stoicism.md`, following the new flat source naming convention.
 
 > Changes: Simplified the repository to `domains/`, flat `sources/`, and `TODO.md`; removed the empty top-level `principles/` and `practices/` placeholders and source-type subdirectories; added `domains/general/` for genuinely cross-domain material; and renamed the Blinkist note to `sources/blinkist-how-to-be-a-friend-in-an-unfriendly-world.md`.
-> Validation: Re-read all inline feedback against the resulting README and tree, confirmed every source is directly under `sources/` with a type prefix, confirmed no tracked files remain under `synthesis/`, `principles/`, or `practices/`, and ran `git diff --check`.
-> Learning: Prefer domain-owned principles and practices. Use `domains/general/` only for ideas that truly cross several domains, not as a default destination.
 
 ## [DONE 2026-08-01.1] Review `stoicism-personal-study` and stoicism itself and extract the ideas that should become reusable principles here.
 
 > Agent: Reviewed both language versions of `stoicism-personal-study`, then checked its core claims against Epictetus and academic reference works on Stoicism and Stoic ethics.
 > Changes: Expanded `sources/philosophy-stoicism.md` with source links, distinctions between virtue and preferred externals, a careful reading of what is “up to us,” impressions and judgments, the four practical capacities, social responsibility, acceptance, and explicit misuse boundaries. Added `domains/general/principles.md` with six reusable principles: anchor well-being in choices rather than guaranteed outcomes; focus effort where agency exists; treat first impressions as hypotheses; train wisdom, courage, justice, and moderation; hold acceptance together with action; and include other people in flourishing.
-> Validation: Compared the extracted principles with the local Stoicism diagram and prose; verified the classical framing against Epictetus's *Enchiridion*, the Stanford Encyclopedia of Philosophy, and the Internet Encyclopedia of Philosophy entries on Stoicism, Stoic ethics, and Epictetus; checked all local links and ran `git diff --check`.
-> Learning: Preserve the nuances usually lost in short Stoic summaries: preferred externals can matter without defining flourishing, responsibility for judgment is not control over outcomes, working with impressions is not denial of pain, and Stoic flourishing includes justice and social duties rather than private calm alone.
 
 ## [DONE 2026-08-01.1] Incorporate [`digital exhaustion`](../publishing/published/posts/2026-04-22-digital-exhaustion.md) into good-life-study.
 
 > Agent: Incorporated the published post as both a traceable source and domain-level synthesis rather than copying it into the repository unchanged.
 > Changes: Added the flat source note `sources/post-digital-exhaustion.md` with provenance, core ideas, proposed practices, and a clear boundary that the material derives from a short post and Blinkist summary rather than the full book. Added `domains/attention/digital-exhaustion.md` covering signals, six working principles, and concrete experiments for device use, communication rhythms, recovery, and information-environment design. Updated the attention index and replaced the technology/AI placeholder with a domain README that links to the attention-owned note without duplicating it.
-> Validation: Re-read every idea against the published LinkedIn post, confirmed the source and domain notes distinguish observation from interpretation and digital exhaustion from other possible causes of fatigue, verified all local file links and the flat source naming convention, and ran `git diff --check`.
-> Learning: Treat digital exhaustion primarily as a pattern of fragmented interaction, ambiguous signal interpretation, and emotional activation—not as a synonym for screen time. Protecting attention requires changing rhythms and defaults as well as individual intention.
 
-## [DONE] 2026-04-25
-
-- Added the first synthesis note connecting Stoicism to the broader `good life` frame.
-- Imported the first Blinkist-derived source note: `How to Be a Friend (In an Unfriendly World)`.
-- Added the first relationship domain note: `domains/relationships/friendship.md`.
-
-## [DONE 2026-04-25.8] Leaving well project considerations
-Extension to existing https://github.com/marcingurbisz/stoicism-personal-study (../stoicism-personal-study). I would create a project that would be my more general study about how to live a good life. Both publishing and this study project are related because what I read and publish I want also incorporate somehow into "living well" project. I wonder how to best name it.
-
-Idea of it is that we will combine all the new sources into the overall picture. Stoic philosophy may be the base for now but do not need to be. When I come with some new blink with interesting ideas I incorporate it my picture of good life.
-
-Additional questions/remarks:
-* ../stoicism-personal-study as base?
-* How to name it "living-well"?
-* Each new relevant book from blinkist to be incorporated into project - get new ideas and put it proper place in project structure with references.
-* What are other approaches to do this project?
-* Maybe do not base on stoic but find some other way to structure living well knowledge?
-
-> Agent: Taking this item. Goal is to decide whether the future project should extend `stoicism-personal-study` or become a broader umbrella, and to turn that into a concrete naming and structure recommendation that can drive the next item about creating the project.
-> Changes: Added `wip/living-well-project-considerations.md` with a clear recommendation to create a new umbrella repo rather than extending `stoicism-personal-study`, plus naming options, a preferred repo name (`good-life-study`), and a domain-and-synthesis structure.
-> Validation: Re-read the note and confirmed it resolves the key design dependency for the next item: whether to extend the Stoicism repo or create a new broader project, and what structure that broader project should use.
-
-## [DONE 2026-04-25.9] Create project based on outcomes from "Living well project considerations"
-Please create such a project in workspace.
-
-> Agent: Used the recommendation from the previous item and created `../good-life-study` as a new umbrella project in the workspace.
-> Changes: Added the initial domain-and-synthesis folder structure, created `README.md`, `TODO.md`, and seed notes under `synthesis/` and `domains/`, and aligned the project around a broader good-life study rather than a Stoicism-only frame.
-> Validation: Verified the new project structure exists on disk and that the top-level files describe the intended workflow, structure, and relationship to `publishing/` and `stoicism-personal-study/`.
-
-## [DONE 2026-04-25.10] Add "How to be a Friend" to living well project
-Look into [How to be a Friend (In an Unfriendly World)](build/how-to-be-a-friend-in-an-unfriendly-world-en.txt) by Barnet Bain to see what aspects for it would be worth to incorporate into our "living well" project.
-
-> Agent: Taking this item. Goal is to extract the most reusable ideas from the Barnet Bain text and incorporate them into `good-life-study` as both a source note and a more durable relationships-domain note.
-> Changes: Added a source note at `../good-life-study/sources/blinkist/how-to-be-a-friend-in-an-unfriendly-world.md`, added the domain note `../good-life-study/domains/relationships/friendship.md`, and updated `../good-life-study/TODO.md` to reflect those first two completed content imports.
-> Validation: Re-read the new source note and domain note and confirmed they carry over the most reusable ideas from the Barnet Bain text: self-friendship, attention, attunement/empathy with boundaries, and active caring as a lived orientation rather than a one-off technique.
+# [NEW] Feedback
+* remove domains that are empty now?
