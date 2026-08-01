@@ -1,4 +1,8 @@
-# Friendship
+# Relationships
+
+A good life is not only internal composure. It also depends on the quality of relationships.
+
+## Friendship
 
 Friendship is not only about having close contacts. It is a way of relating that combines presence, goodwill, and grounded care.
 

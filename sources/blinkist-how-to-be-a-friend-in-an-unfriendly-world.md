@@ -44,6 +44,6 @@ The end point is not mastering a toolkit. It is becoming the kind of person for 
 
 ## Candidate links to domain notes
 
-- `domains/relationships/friendship.md`
-- `domains/attention/README.md`
+- `domains/relationships.md#friendship`
+- `domains/attention.md`
 - future note on boundaries or emotional regulation

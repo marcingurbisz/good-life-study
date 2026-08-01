@@ -1,6 +1,6 @@
 # General Principles
 
-These principles apply across several life domains. They are working commitments, not doctrines: later sources may refine, limit, or challenge them.
+This domain holds principles and practices that genuinely apply across several life areas. Ideas that fit naturally in one domain should remain there instead of being duplicated here. These principles are working commitments, not doctrines: later sources may refine, limit, or challenge them.
 
 ## Build well-being around the quality of choices, not guaranteed outcomes
 

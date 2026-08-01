@@ -49,4 +49,4 @@ This note is derived from a short published post and a Blinkist summary, not a r
 
 ## Mapped domain note
 
-- [`domains/attention/digital-exhaustion.md`](../domains/attention/digital-exhaustion.md)
+- [`domains/attention.md#digital-exhaustion`](../domains/attention.md#digital-exhaustion)

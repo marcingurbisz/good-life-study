@@ -64,4 +64,4 @@ When reusing Stoic ideas in this project:
 
 ## Ideas mapped into the study
 
-See [`domains/general/principles.md`](../domains/general/principles.md) for the reusable principles extracted from this review.
+See [`domains/general.md`](../domains/general.md) for the reusable principles extracted from this review.

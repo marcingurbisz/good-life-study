@@ -26,9 +26,13 @@ The repo should not become a pile of summaries. The point is synthesis.
 
 ## Structure
 
-- `domains/` - life areas such as attention, work, relationships, health, meaning, and technology/AI; each domain can contain both principles and practices
+- `domains/` - one Markdown file per active life domain, containing related principles and practices
 - `sources/` - captured inputs kept as a flat list; filenames start with the source type, for example `blinkist-...` or `philosophy-...`
 - `TODO.md` - actionable work and unresolved questions
+
+A life domain is a recurring area or condition of lived experience in which related principles and practices can be developed together. Some domains describe familiar areas such as relationships; others describe cross-cutting conditions such as attention. A domain file is added when there is useful material for it, so the repository does not keep empty placeholders.
+
+[Attention](domains/attention.md) is included because it mediates every other area: it affects what is noticed, sustained, interpreted, and acted on. Treating it as a domain makes it possible to study how habits, environments, and technologies either protect deliberate engagement or fragment it.
 
 ## Current Working Map
 

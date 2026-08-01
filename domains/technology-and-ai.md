@@ -11,4 +11,4 @@ Questions for this domain:
 
 ## Related notes owned by other domains
 
-- [`domains/attention/digital-exhaustion.md`](../attention/digital-exhaustion.md) - the attention costs of fragmented digital interaction and practices for reducing them
+- [`Attention: Digital Exhaustion`](attention.md#digital-exhaustion) - the attention costs of fragmented digital interaction and practices for reducing them

@@ -1,4 +1,15 @@
-# Digital Exhaustion
+# Attention
+
+Attention is treated as a life domain because it is a limited, trainable condition through which every other domain is experienced. What repeatedly receives attention shapes perception, judgment, action, learning, and presence with other people. Fragmented or captured attention can therefore weaken work, relationships, and rest even when the underlying goals are sound.
+
+Questions for this domain:
+
+- What protects clear attention?
+- What fragments it?
+- Which technologies improve thinking and which degrade it?
+- How do habits, environment, and relationships influence attention?
+
+## Digital Exhaustion
 
 Digital exhaustion is the wired, fragmented depletion that can follow a day of frequent tool switching, ambiguous signals, and repeated emotional activation. It is relevant to living well because attention is not merely a productivity resource: its condition affects presence, judgment, relationships, and the capacity to engage with anything deeply.
 
@@ -63,5 +74,5 @@ Networks, subscriptions, applications, and notification defaults influence emoti
 
 ## Links
 
-- Source note: [`sources/post-digital-exhaustion.md`](../../sources/post-digital-exhaustion.md)
-- Related general principle: [`Treat first impressions as hypotheses, not verdicts`](../general/principles.md#treat-first-impressions-as-hypotheses-not-verdicts)
+- Source note: [`sources/post-digital-exhaustion.md`](../sources/post-digital-exhaustion.md)
+- Related general principle: [`Treat first impressions as hypotheses, not verdicts`](general.md#treat-first-impressions-as-hypotheses-not-verdicts)
